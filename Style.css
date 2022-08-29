@@ -24,6 +24,7 @@ body{
     margin-right:auto;
     font-size: x-large;
     font-weight: bolder;
+    cursor: pointer;
 }
 textarea{
     width:80%;
