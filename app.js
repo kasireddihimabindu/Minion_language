@@ -27,7 +27,7 @@ function clickEventHandler(){
 
 function errorhandler(error){
     console.log("Error occured",error);
-    alert("Something went wrong with the server! Please try again after sometime")
+    //alert("Something went wrong with the server! Please try again after sometime")
 }
 
 translate_button.addEventListener("click",clickEventHandler);
